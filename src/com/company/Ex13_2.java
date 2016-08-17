@@ -7,10 +7,7 @@ import com.googlecode.lanterna.terminal.Terminal;
 import java.nio.charset.Charset;
 
 public class Ex13_2 {
-// hejhej hej
-// hejhej hej
-// hej hej
-// hej hej
+
     private static Terminal terminal;
 
     public static void main(String[] args) throws InterruptedException {
